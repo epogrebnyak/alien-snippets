@@ -2,8 +2,10 @@
 Programming exercises for Python based on documentation of new programming languages.
 
 The key idea for this repo is that newer programming languages provide us with useful code examples in their documentation.
-Using these examples should give some fresh air and intrigue to a Python course.
-You can ask your students "Can you make this work in Python? This does really work in another programming language!".
+Using these examples might give some fresh air, authority and intrigue to an introductory Python class or a self-study session.
+You can ask your students: 
+
+> Can you make this work in Python? People made a whole new programming language to make this work!
 
 ## Languages considered
 
