@@ -31,7 +31,7 @@ Can you do the examples below in Python? Steps involved:
 - match to familiar concepts
 - come up with implementation in Python.
 
-Of course you can make a ChatGPT prompt for this – but only when you are totally stuck and can settle for clues, not a ready solution.
+Using ChatGPT is only allowed when you are totally stuck, even then ask for clues, not a ready solution.
 
 ### Maps from ballerina 
 
