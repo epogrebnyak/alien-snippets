@@ -89,7 +89,7 @@ fn calculate(value: Int, add addend: Int, multiply multiplier: Int) {
 Only a part of this code can be translated to Python `match`/`case`.
 </details>
 
-```
+```nim
 # Case switch.
 var letter = 'c'
 
@@ -112,7 +112,7 @@ Example from excellent [v docs](https://github.com/vlang/v/blob/master/doc/docs.
 What is the significance of `0.009999794661191` constant?
 </details>
 
-```v
+```vlang
 import time
 import math
 
@@ -135,7 +135,12 @@ fn main() {
 
 ### [Vale](https://vale.dev/): print a list of planets
 
-Probably the easiest task on the list, consider adding "Hello, Venusians!" to your print statement. 
+Probably the easiest task on the list.
+
+<details><summary>Extension idea</summary>
+Consider adding "Hello, Venusians!" and varieties for Earth and Mars to your print statement. 
+/details>
+
 
 ```vale
 import stdlib.*;
