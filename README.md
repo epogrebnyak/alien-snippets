@@ -141,7 +141,7 @@ Probably the easiest task on the list.
 
 <details><summary>Extension idea</summary>
 Consider adding "Hello, Venusians!" and varieties for Earth and Mars to your print statement. 
-/details>
+</details>
 
 
 ```vale
