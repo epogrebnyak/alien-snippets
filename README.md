@@ -159,7 +159,7 @@ exported func main() {
 
 - Code examples are abundant at [Rosetta Code][rc], but I find the new programming language docs specifically to be a place where a lot of effort, knowledge and attention focus is concentrated, thus making them a good resource to draw from.
 - A great cross-language reference for mainstream and older programming langauges is [hyperpolyglot](https://hyperpolyglot.org/).
-- If I'm to provide some basis for comparing languages I'd use [this Reddit comment of mine] that got surprisingly popular. Would probably need more account for  programming paradigms though.
+- If I'm to provide some basis for comparing languages I'd use [this Reddit comment of mine][rc2] that got surprisingly popular. Would probably need more account for  programming paradigms though.
 
 [rc]: https://rosettacode.org/wiki/Rosetta_Code
 [rc2]: https://www.reddit.com/r/learnprogramming/comments/1cgl7df/comment/l1wpykk/
